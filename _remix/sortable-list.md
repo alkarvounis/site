@@ -19,9 +19,9 @@ tags:
 
 Άσκηση: Αλλάξτε το χρώμα ή/και το ύψος των στοιχείων της λίστας καθώς και την απόσταση μεταξύ τους
 
-<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="alkarvounis" data-slug-hash="bGwvPVd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Sort List">
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="html,result" data-user="alkarvounis" data-slug-hash="bGwvPVd" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Sortable List">
   <span>See the Pen <a href="https://codepen.io/alkarvounis/pen/bGwvPVd">
-  Sort List</a> by Αλέξανδρος Καρβούνης (Π2019020) (<a href="https://codepen.io/alkarvounis">@alkarvounis</a>)
+  Sortable List</a> by Αλέξανδρος Καρβούνης (Π2019020) (<a href="https://codepen.io/alkarvounis">@alkarvounis</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
